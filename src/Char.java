@@ -1,5 +1,5 @@
 public class Char {
-    public static void main(String[] args) {
+    public static void main(UsingString[] args) {
         char a = 'a'; //문자
         char b = 97; //아스키코드
         char c = '\u0061'; //유니코드

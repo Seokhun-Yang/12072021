@@ -1,5 +1,5 @@
 public class Boolean {
-    public static void main(String[] args) {
+    public static void main(UsingString[] args) {
         int base = 180;
         int height = 185;
         boolean isTall = height > base;
